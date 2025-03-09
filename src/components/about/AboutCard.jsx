@@ -2,7 +2,7 @@ import React from "react"
 import Heading from "../common/heading/Heading"
 import "./about.css"
 import { homeAbout } from "../../dummydata"
-import Awrapper from "./AWrapper"
+import Awrapper from "./Awrapper"
 
 const AboutCard = () => {
   return (
@@ -10,7 +10,7 @@ const AboutCard = () => {
       <section className='aboutHome'>
         <div className='container flexSB'>
           <div className='left row'>
-            <img src='https://montauban.com/fileadmin/_processed_/5/b/csm_etudiants_2e0e125f03.jpg' alt='' />
+            <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGxt-gaU0et9FhcS1frXSQaNCiSzbmyZOZBg&s' alt='' />
           </div>
           <div className='right row'>
             <Heading subtitle='LEARN ANYTHING' title='Benefits About Online Learning Expertise' />

@@ -6,7 +6,7 @@
 }
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #6328e3;
+  background: linear-gradient(to right, #38bdf8, #ec4899);
 }
 /*------------global-----------*/
 .container {

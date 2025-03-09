@@ -1,3 +1,4 @@
+
 .aboutHome {
     height: auto;
   }
@@ -77,6 +78,10 @@
     }
     .awrapper {
       height: 50vh;
+    }
+    .left row{
+      width: 50%;
+      height: 50%;
     }
   }
   
