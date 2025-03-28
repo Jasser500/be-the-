@@ -42,7 +42,7 @@ const Login = () => {
 
         {/* Image à droite */}
         <div className="image-right">
-          <img src="./public/images/leftedu.png" alt="Education" />
+          <img src="./images/leftedu.png" alt="Education" />
         </div>
       </div>
     </div>

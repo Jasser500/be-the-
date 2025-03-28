@@ -150,7 +150,11 @@ body, html {
         padding-top: 120px; /* Ajuste selon la hauteur de l'écran */
     }
 }
-
+.image-right {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
 /* Ajustements pour les petits écrans */
 @media (max-width: 400px) {
     .signup-box {

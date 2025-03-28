@@ -32,7 +32,11 @@ const Inscription = () => {
           <Link to="/login" className="login-link">LOGIN</Link>
            
         </form>
+        
       </div>
+      <div className="image-right">
+          <img src="./images/leftedu.png" alt="Education" />
+        </div>
     </div>
   );
 };

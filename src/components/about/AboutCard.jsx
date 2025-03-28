@@ -10,7 +10,7 @@ const AboutCard = () => {
       <section className='aboutHome'>
         <div className='container flexSB'>
           <div className='left row'>
-            <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGxt-gaU0et9FhcS1frXSQaNCiSzbmyZOZBg&s' alt='' />
+            <img src='https://www.smeno.com/media/blog/vie-pratique-bon-plan-etudiants/etudiant-a-salarie.webp' alt='' />
           </div>
           <div className='right row'>
             <Heading subtitle='LEARN ANYTHING' title='Benefits About Online Learning Expertise' />
