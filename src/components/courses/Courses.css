@@ -1,3 +1,22 @@
+.hero {
+  background-image: url('https://etudiants.nice.fr/wp-content/uploads/2024/08/iStock-1682544810-scaled-e1723621547333.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100vh;
+  padding-top: 20%;
+  padding-right: 50px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
 body {
     font-family: "Roboto", sans-serif;
     background-color: linear-gradient(to right, #38bdf8, #ec4899);;
@@ -91,7 +110,7 @@ body {
   }
   
   .coursesCard .outline-btn:hover {
-    background-color: #1eb2a6;
+    background-color: #b21e6f;
     color: #fff;
   }
   

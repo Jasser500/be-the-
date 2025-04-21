@@ -22,7 +22,7 @@ const languageCourses = [
       photo: "images/teacher2.jpg",
       totalTime: "35h",
     },
-    price: "750€",
+    price: "750d",
   },
   {
     id: 3,
